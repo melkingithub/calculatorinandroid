@@ -1,6 +1,4 @@
 # Ex_5_-Develop a simple calculator using android studio.
-Develop a program to create a simple calculator using Android Studio.
-
 ## AIM:
 To develop a program to create a simple calculator using Android Studio.
 
