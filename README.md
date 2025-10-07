@@ -310,6 +310,9 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/bbe240c6-62ee-4fc2-b38e-becb4c35ca41" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d96b81d5-d7f8-45e0-bfec-fff311a6d8f4" />
+
+
 ## RESULT:
 Thus a Simple Android Application to create a calculator using Android Studio was developed and executed successfully.
 
